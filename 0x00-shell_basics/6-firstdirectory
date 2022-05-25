@@ -1,2 +1,1 @@
-#!/bin/bash
-mkdir
+#!/bin/bash\nmkdir ./tmp
