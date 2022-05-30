@@ -1,2 +1,2 @@
 #!/bin/bash
-ifind . -empty -printf "%f\n"
+find . –type d -empty
