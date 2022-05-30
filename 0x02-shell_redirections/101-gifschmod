@@ -1,0 +1,2 @@
+#!/bin/bash
+find . -type f -name “*.gif” u+x 101-gifs
