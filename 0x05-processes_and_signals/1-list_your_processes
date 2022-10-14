@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
-# a Bash script that displays line containing the bash word
-# shellcheck disable=SC2009
-ps -auxf |grep bash
+# Displays the current running processes, in a user-oriented format.
+
+
+ps -faux
