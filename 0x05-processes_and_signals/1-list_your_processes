@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-# Displays the current running processes, in a user-oriented format.
+#list all processes
 
-
-ps -faux
+ps auxf
